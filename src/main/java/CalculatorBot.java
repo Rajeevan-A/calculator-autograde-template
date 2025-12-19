@@ -1,5 +1,5 @@
 public class CalculatorBot {
-// Note
+// Note ##
     public static double calculate(double a, double b, String operation) {
 
         switch (operation.toLowerCase()) {
