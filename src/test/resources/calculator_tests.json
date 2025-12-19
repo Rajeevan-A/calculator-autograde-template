@@ -1,0 +1,30 @@
+[
+  {
+    "testName": "Addition test",
+    "a": 10,
+    "b": 5,
+    "operation": "add",
+    "expected": 15
+  },
+  {
+    "testName": "Subtraction test",
+    "a": 10,
+    "b": 5,
+    "operation": "sub",
+    "expected": 5
+  },
+  {
+    "testName": "Multiplication test",
+    "a": 4,
+    "b": 5,
+    "operation": "mul",
+    "expected": 20
+  },
+  {
+    "testName": "Division test",
+    "a": 20,
+    "b": 4,
+    "operation": "div",
+    "expected": 5
+  }
+]
